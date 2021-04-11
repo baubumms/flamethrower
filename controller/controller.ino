@@ -51,7 +51,6 @@ void checkState(){//react if state changed
     else
       startFire();
   }
-    
 
   lastState = state;
 }
